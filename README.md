@@ -3,8 +3,11 @@
 </p>
 <p align="center">(Open for hiring)</p>
 
-------------
+___
 
 <h2 align="center">👨‍💻 Who am I? 👨‍💻</h2>
+<br>
 
-I'm a freshman fullstack web developer 
+
+<p align="center">I'm a freshman fullstack web developer who loves Japan and Pokémon! I just started to code a few months ago and I'm delighted with this world and willing to improve in order to become a better and better developer. With this new founded passion I plan to commit some personal projects, some of which are related with the Pokémon Trading Card Game I frequently play.</p>
+
