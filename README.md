@@ -1,5 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/2Tucho/2Tucho/assets/105043263/9bf4325b-773c-465c-a6e8-0a33a877be12" alt="Computer man"">
+</p>
+<p align="center">(Open for hiring)</p>
 
+------------
 
-!(https://github.com/2Tucho/2Tucho/assets/105043263/fefc2623-54d9-4cd8-86d8-e391226414c9)
+<h2 align="center">👨‍💻 Who am I? 👨‍💻</h2>
 
+I'm a freshman fullstack web developer 
