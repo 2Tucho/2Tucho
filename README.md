@@ -8,7 +8,7 @@ ___
 <h2 align="center">👨‍💻 Who am I?</h2>
 <br>
 
-<p align="center">I'm a freshman fullstack web developer who loves Japan and Pokémon! I just started to code a few months ago and I'm delighted with this world and willing to improve in order to become a better and better developer. With this new founded passion I plan to commit some personal projects, some of which are related with the Pokémon Trading Card Game I frequently play.</p>
+<p align="center">I'm a fullstack web developer who loves Japan and Pokémon! I just started to code a few months ago and I'm delighted with this world and willing to improve in order to become a better and better developer. With this new founded passion I plan to commit some personal projects, some of which are related with the Pokémon Trading Card Game I usually play.</p>
 
 <div align="center">
   
@@ -34,7 +34,6 @@ ___
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 </div>
-
 
 <br>
 <h2 align="center">📭 Contact me by:</h2>
